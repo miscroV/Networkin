@@ -1,17 +1,17 @@
 /*******************************************************************************
  * Project: Networkin
- * File: main.c
+ * File: testlib.c
  * Author: MiscroV
  * Created: 2024-06-01
- * Description: Main file for the Networkin project.
+ * Description: Implementation file for the testlib.
  ******************************************************************************/
 
  //++ Includes -----------------------------------------------------------------
 #include <stdio.h>
 #include "testlib.h"
 
-//++ Main Function -------------------------------------------------------------
-int main() {
-    hello_world();
+//++ Function Implementation ---------------------------------------------------
+int hello_world() {
+    printf("Hello, World!\n");
     return 0;
 }
