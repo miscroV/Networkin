@@ -12,6 +12,6 @@
 
 //++ Function Prototypes -------------------------------------------------------
 
-int hello_world();
+int lib_hello_world();
 
 #endif // TESTLIB_H

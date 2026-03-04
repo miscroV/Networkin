@@ -11,7 +11,6 @@
 #include "lib.h"
 
 //++ Function Implementation ---------------------------------------------------
-int hello_world() {
-    printf("Hello, World!\n");
-    return 0;
+int lib_hello_world() {
+    return printf("Hello, World! 2\n");
 }

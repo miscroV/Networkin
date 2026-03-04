@@ -12,5 +12,5 @@
 
 //++ Main Function -------------------------------------------------------------
 int main() {
-    return hello_world();
+    return lib_hello_world();
 }
